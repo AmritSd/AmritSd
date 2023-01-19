@@ -6,4 +6,4 @@
 - 💬 Ask me about my projects, job aspirations or even the weather.
 - 📫 How to reach me: [Contact page](https://amrit.blog/contact)
 
-- ⚡ What is spidermans day job? Web developer
+- ⚡ What is spiderman's day job? Web developer
