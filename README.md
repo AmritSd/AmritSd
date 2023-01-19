@@ -8,4 +8,4 @@
 
 <br>
 <br>
-⚡ What is spiderman's day job? <br>Web development
+What is spiderman's day job? <br>Web development
